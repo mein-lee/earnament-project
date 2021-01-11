@@ -1,4 +1,4 @@
-# Randomly Generating giveaway winners
+# Randomly Generating Giveaway Winners
 
 ## Background Overview
 As part of a social media marketing campaign for my small handcrafted jewelry business, I hosted a giveaway on Instagram where three participants will be randomly selected to win free earrings. Participants enter by filling out a market survey form (code for survey's data analysis in another repository).
